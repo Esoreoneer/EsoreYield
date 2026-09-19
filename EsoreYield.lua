@@ -9,7 +9,7 @@ local Mouse = LocalPlayer:GetMouse()
 
 local PREFIX = ":"
 local TOGGLE_KEY = Enum.KeyCode.RightControl
-local GITHUB_COMMANDS_URL = "https://raw.githubusercontent.com/YourUsername/YourRepo/main/commands.lua"
+local GITHUB_COMMANDS_URL = "https://raw.githubusercontent.com/Esoreoneer/EsoreYield/refs/heads/main/EsoreYield.lua"
 
 local Flying = false
 local FlySpeed = 50
